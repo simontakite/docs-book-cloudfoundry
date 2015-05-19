@@ -23,4 +23,5 @@ r302 '/deploying/adding-services.html', 'https://github.com/cloudfoundry-communi
 
 r302 %r{/bosh/(.*)}, 'http://bosh.io/docs/$1'
 
-
+moved_permanently '/devguide/services/adding-a-service.html', '/devguide/services/managing-services.html#create'
+moved_permanently '/devguide/services/bind-service.html', '/devguide/services/managing-services.html#bind'
